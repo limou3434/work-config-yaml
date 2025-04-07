@@ -3,4 +3,4 @@ my:
     property: "Hello from Git!"
 
 server:
-  port: 8848
+  port: 8688
