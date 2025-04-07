@@ -1,6 +1,0 @@
-my:
-  custom:
-    property: "Hello from Git!"
-
-server:
-  port: 8688
